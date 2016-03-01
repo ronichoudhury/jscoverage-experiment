@@ -16,9 +16,6 @@ module.exports = function (config) {
       'karma-tap',
       'karma-tape-reporter'
     ],
-    // plugins: [ 'karma-chrome-launcher', 'karma-chai', 'karma-mocha',
-    // 'karma-sourcemap-loader', 'karma-webpack', 'karma-coverage',
-    // 'karma-mocha-reporter' ],
     preprocessors: {
       'tests.webpack.js': [ 'webpack', 'sourcemap' ] //preprocess with webpack and our sourcemap loader
     },

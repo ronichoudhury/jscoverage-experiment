@@ -1,0 +1,22 @@
+{
+  "name": "jscoverage-experiment",
+  "version": "0.1.0",
+  "description": "",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronichoudhury/jscoverage-experiment.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ronichoudhury/jscoverage-experiment/issues"
+  },
+  "homepage": "https://github.com/ronichoudhury/jscoverage-experiment#readme"
+}
